@@ -11,3 +11,5 @@ Simple and fast mp3 player
 * Use JavaFX instead of jlayer
 * Add shuffle feature
 * Add support for Winamp skins?
+* Refactor code
+* Move to Java 8?
